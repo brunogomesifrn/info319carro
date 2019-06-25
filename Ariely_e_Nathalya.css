@@ -1,0 +1,87 @@
+*
+{
+
+}
+
+
+.inicio{
+
+	background-color: red;
+	color: white;
+	height: 100px;
+
+}
+
+#menu{
+	background-color: red;
+	color: black;
+	height: 70px;
+}
+
+#memu ul{
+			margin: 0;
+			background-color: red;
+			list-style: none;
+
+		}
+		#menu ul li{
+			display: inline;
+		}
+		#menu ul li a{
+			padding: 10px 20px;
+			display: inline-block;
+			color: white;
+			text-decoration: none;
+		}
+		#menu ul li a:hover{
+			color: black;
+		}
+
+	#divBusca{
+
+  background-color:#E0EEEE;
+  border:solid 2px #5F9EA0;
+  border-radius:10px;
+  width:1000px;
+  height:40px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+ 
+#txtBusca{
+  float:left;
+  background-color:transparent;
+  padding-left:5px; 
+  font-size:18px;
+  border:none;
+  height:32px;
+  width:891px;
+}
+ 
+#btnBusca{
+  border:none;
+  float:left;
+  height:39px;
+  border-radius:0 7px 7px 0;
+  width:105px;
+  font-weight:bold;
+  background:#5F9EA0;
+}
+
+}
+.titulo{
+	height: 500px;
+	padding-top: 200px;
+	background-color: white;
+}
+.principal{
+	background-color: black;
+	padding: 2px;
+}
+.fotos{
+	background-color: white;
+	margin-top: 3px;
+	padding: 100px;
+}
